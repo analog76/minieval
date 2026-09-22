@@ -1,0 +1,2 @@
+{"id": "CASE-01", "input": {"query": "How do I request a refund?"}, "expected": "Policy REF-402, 5-7 business days"}
+{"id": "CASE-02", "input": {"query": "I forgot my password. How do I reset it?"}, "expected": "Tell the customer to use the Forgot Password link on the sign-in page, follow the reset email, and check spam if the email does not arrive."}
